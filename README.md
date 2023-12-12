@@ -8,10 +8,5 @@ CREAR README.MD EN REPO HE INCLUIR:
 - BREVE DESCRIPCIÓN DEL PÚBLICO AL QUE SE APUNTA
 - BREVE DESCRIPCIÓN DE LOS INTEGRANTES
 - LISTADO DE 5 SITIOS DE REFERENCIA, Y BREVEMENTE POR QUÉ SE ELIGIERON 
-listado y referencia :
-https://g.co/kgs/8GKZSH
-https://wwww.fravega.com/
-decidimos elegir estas paginas a modo de inspiracion para el proyecto (fravega , mercadolibre)
-nos parece que tiene una buena funcionalidad, abarca variedad de productos, es innovadora y nos da las herramientas para poder hacer una compra comoda, sencilla y aporta confianza por su larga trayectoria, manejan un buen diseño con respecto a lo estetico el cual trataremos de adaptar al proyecto y hacer de ello algo similar y a la vez distinto.
-
-
+Referencias : unas de las paginas referentes en las que decidimos inspirarnos fueron mercado libre y fravega.
+Las seleccionamos porque se nos hicieron paginas con una buena funcionalidad y un manejo comodo de estructura en el que podemos fluir comodamente por su organizacion , abarca variedad de productos con diseños, imagenes y detalles que aporta mucho en lo estetico , es innovadora y su largo trayecto nos aporta confianza y conformidad.
