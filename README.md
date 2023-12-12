@@ -10,3 +10,4 @@ CREAR README.MD EN REPO HE INCLUIR:
 - LISTADO DE 5 SITIOS DE REFERENCIA, Y BREVEMENTE POR QUÉ SE ELIGIERON 
 Referencias : unas de las paginas referentes en las que decidimos inspirarnos fueron mercado libre y fravega.
 Las seleccionamos porque se nos hicieron paginas con una buena funcionalidad y un manejo comodo de estructura en el que podemos fluir comodamente por su organizacion , abarca variedad de productos con diseños, imagenes y detalles que aporta mucho en lo estetico , es innovadora y su largo trayecto nos aporta confianza y conformidad.
+Referencia : La pagina de electrocomponentes, lo eleji por su interactividad de mostrar el proceso de compra al usuario de manera visual.
