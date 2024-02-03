@@ -1,0 +1,28 @@
+{
+  "name": "grupo_12_electronicadinamita",
+  "version": "1.0.0",
+  "description": "Incluir URL del repositorio en archivo entregable      - https://github.com/CyranoBlack/grupo_12_electronicaDinamita.git",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/CyranoBlack/grupo_12_electronicaDinamita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyranoBlack/grupo_12_electronicaDinamita/issues"
+  },
+  "homepage": "https://github.com/CyranoBlack/grupo_12_electronicaDinamita#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
