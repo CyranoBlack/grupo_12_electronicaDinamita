@@ -14,10 +14,12 @@ app.get("/",(req,res)=>{res.sendFile(path.resolve(__dirname,"views/index.html"))
 // 7_ruta home
 app.get("/home",(req,res)=>{res.sendFile(path.resolve(__dirname,"views/index.html"))})
 // 8_ruta login
-app.get("/register",(req,res)=>{res.sendFile(path.resolve(__dirname,"views/register.html"))})
-// 9_ruta register
 app.get("/login",(req,res)=>{res.sendFile(path.resolve(__dirname,"views/login.html"))})
-// 7_ruta carrito de compras
-app.get("/car",(req,res)=>{res.sendFile(path.resolve(__dirname,"views/product-car.html"))})
-// 7_ruta carrito de compras
-app.get("/detail",(req,res)=>{res.sendFile(path.resolve(__dirname,"views/product-Detail.html"))})
+// 9_ruta carrito de compras
+app.get("/car",(req,res)=>{res.sendFile(path.resolve(__dirname,"views/productCart.html"))})
+// 10_ruta carrito de detalle
+app.get("/detail",(req,res)=>{res.sendFile(path.resolve(__dirname,"views/productDetail.html"))})
+// 11_ruta register
+app.get("/register",(req,res)=>{res.sendFile(path.resolve(__dirname,"views/register.html"))})
+
+
