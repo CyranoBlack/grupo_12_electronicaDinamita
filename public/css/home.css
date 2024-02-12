@@ -1,0 +1,20 @@
+.main-index {
+}
+
+.section1-index{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row
+}
+
+.div-jbl{
+    width: 80px;
+    box-sizing: border-box;
+}
+
+.img-jbl{
+    width: 300px;
+}
+@media (min-width: 425px){
+
+}
