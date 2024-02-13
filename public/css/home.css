@@ -1,19 +1,29 @@
+.body-index{
+    margin: 0px;
+}
+
 .main-index {
 }
 
-.section1-index{
+.section-index{
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: row
+    flex-wrap: nowrap;
+    
 }
 
-.div-jbl{
-    width: 80px;
-    box-sizing: border-box;
+.carrusel{
+    width: 340px;
+    margin: 0;
+}
+
+.arct-home{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
 }
 
 .img-jbl{
-    width: 300px;
+    width: 122px;
 }
 @media (min-width: 425px){
 
