@@ -1,5 +1,6 @@
 .body-index{
     margin: 0px;
+    background-image: url(../images/fondo.png);
 }
 
 .main-index {
@@ -19,7 +20,10 @@
 .arct-home{
     display: flex;
     flex-wrap: wrap;
-    margin: 5px;
+    margin: 6px;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
 }
 
 .img-jbl{
