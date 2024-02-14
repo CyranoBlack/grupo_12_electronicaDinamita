@@ -22,16 +22,17 @@
 </head>
 </head>
 
-<body>
+<body class="register">
     <header>
         <nav>
             <ul>
+                <a href="">Agregar más productos</a>
                 <i class="fas fa-bars"></i>
                 <a href="/productCart"><i class="fa-solid fa-truck"></i> Segui tu compra</a>
                 <a href=""><i class="fa-solid fa-comment"></i> Centro de ayuda</a>
                 <a href=""><i class="fa-solid fa-business-time"></i> Sucursales</a>
             </ul>
-            <ul>
+             <ul>
                 <div>
                     <a href="/"><img src="/images/logo.png" alt="logo dinamita"></a>
                 </div>
@@ -40,9 +41,35 @@
                 <input type="search" placeholder="">
                 <i class="fa-solid fa-magnifying-glass"></i>
                 <span>Estas en <a href=""></a>Quilmes</span>
+
+            </ul>
+            <ul >
+                <a href=""><i class="fas fa-bars"></i> Categorias</a>
+                <a href="">Tiendas Oficiales</a>
+
             </ul>
         </nav>
     </header>
+    <main>
+        <form action="/" method="">
+            <i>icono_personita</i>
+            <span>Registrarse</span>
+            <div class="">
+                <label for="nombre">Nombre</label>
+                <input type="text" name="nombre" id="nombre">
+                <label for="apellido">Apellido</label>
+                <input type="text" name="apellido" id="apellido">
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email">
+                <label for="celular">celular</label>
+                <input type="tel" name="celular" id="celular">
+                <label for="contraseña">Contraseña</label>
+                <input type="password" name="contraseña" id="contraseña">
+                <label for="contraseña">Repetir Contraseña</label>
+                <input type="password" name="contraseña" id="contraseña">
+            </div>
+        </form>
+    </main>
 </body>
 
 </html>
